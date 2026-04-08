@@ -1,0 +1,6 @@
+{
+  "name": "NoHandsfree",
+  "description": "Prevents Discord from enabling handsfree mode while in a call, avoiding Bluetooth HFP compression.",
+  "authors": [{ "name": "saorax" }],
+  "main": "index.js"
+}
